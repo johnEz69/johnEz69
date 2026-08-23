@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/johnEz69/johnEz69/blob/main/Jonatan%20Ezequiel%20Oviedo.png" alt="Jonatan Oviedo - Full Stack Developer" width="100%">
+</p>
+
+
+
+
 # 👋 Hola, soy Jonatan
 
 ### 💻 Desarrollador Full Stack | JavaScript | MERN
