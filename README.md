@@ -155,6 +155,16 @@ Mis principales áreas de interés son:
 
 📧 **Email:** [Mi Email](mailto:john.ez.o.c@gmail.com)
 
+## 📍 Presencia online
+
+**JohnWeb3.3** también cuenta con presencia en **Google Maps**, facilitando que clientes y negocios puedan encontrarme y conocer mis servicios de desarrollo de software.
+
+🌐 **Servicios de desarrollo web y software**
+💻 **Atención y proyectos de forma online**
+
+👉 [Ver JohnWeb3.3 en Google Maps](https://share.google/7ozmiCdFqem2KK5UG)
+
+
 ---
 
 ### ⭐ Gracias por visitar mi perfil
