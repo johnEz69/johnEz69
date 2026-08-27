@@ -165,7 +165,7 @@ Mis principales áreas de interés son:
 
 ## 📍 Presencia online
 
-**JohnWeb3.3** también cuenta con presencia en **Google Maps**, facilitando que clientes y negocios puedan encontrarme y conocer mis servicios de desarrollo de software.
+También cuento con presencia en **Google Maps**, facilitando que clientes y negocios puedan encontrarme y conocer mis servicios de desarrollo de software.
 
 🌐 **Servicios de desarrollo web y software**
 💻 **Atención y proyectos de forma online**
@@ -177,4 +177,3 @@ Mis principales áreas de interés son:
 
 ### ⭐ Gracias por visitar mi perfil
 
-Si te interesa alguno de mis proyectos, ¡no dudes en explorarlos
